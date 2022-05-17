@@ -1,4 +1,5 @@
 Gandercoin Core integration/staging tree
+(This repository is forked from litecoin core)
 =====================================
 
 [![Build Status](https://travis-ci.org/gandercoin-project/gandercoin.svg?branch=master)](https://travis-ci.org/gandercoin-project/gandercoin)
